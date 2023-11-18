@@ -1,4 +1,5 @@
 rootProject.name = 'booking-service'
 include 'core'
 include 'persistence'
+include 'api'
 
